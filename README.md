@@ -9,6 +9,7 @@ When looking at the side by side comparison of the refractored code results of s
 ![](VBA_Challenge_2017.PNG)
 ![](VBA_Challenge_2018.PNG)
 
+I ran into glitches after creating the loop in the original script and noticing something was incorrect in the code as the returns were all appearing to be "0.0%" that whenever I attempted to edit the code my VBA and excel windows would stop responding and I would need to restart the program. This happened every time so I was not able to fix the original script. This undoubtly had an affect on the execution times. I belive that given that the 2017 data appeared to run fastere with the refactored code than the original code it would have been the case for both if the orginal script had been able to have been edited correctly. 
 # What are the advantages or disadvantages of refactoring code?
 
 # How do these pros and cons apply to refactoring the original VBA script?
